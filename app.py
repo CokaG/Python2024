@@ -19,7 +19,7 @@ app.title="Dasboard Financiero"
 
 #data a usar:
 #para que sirva en git tiene que estar en el mismo chunk 
-df=pd.read_csv("/Users/cokagodoy/Desktop/Universidad 2024 Segundo Semestre/Python for Finance/empresas.csv")
+df=pd.read_csv("empresas.csv")
 
 #armar lista de las variables a usar
 
